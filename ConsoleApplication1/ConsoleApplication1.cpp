@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("test！！！！！！！！");
+	printf("test！！！！！！！！20190704");
 	printf("A");
 	return 0;
 }
